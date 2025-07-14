@@ -53,10 +53,10 @@ Applied **parallel ensemble architectures** to predict intraday AAPL stock price
 
 ## 👩🏽‍💻 Experience Highlights
 
-- 🛡️ **Cybersecurity Intern** @ Hacktales  
+- 🛡️ **Cybersecurity Intern** @ [Hacktales](https://hacktales.com.ng/)  
   Focused on exploitation analysis, OSINT, and vulnerability assessment using tools like **Nmap, OpenVAS**, **Kali Linux**, and **scripting**.
 
-- 💳 **Strategy Intern** @ Interswitch Group  
+- 💳 **Strategy Intern** @ [Interswitch Group](https://interswitchgroup.com/home/)  
   Developed a **Data & AI strategic roadmap** for a fintech company. Gained deep insights into **payment ecosystems**, Financial services-related innovation, Value streams, Payment  facilitation lifecycle,  and card scheme management.
 
 - 🤝 **Volunteer Data Analyst** @ Rainham Food Bank  

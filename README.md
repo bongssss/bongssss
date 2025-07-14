@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ubong Etim
 
-Welcome to my GitHub! I’m a **Machine Learning Engineer**, **Technical Writer**, and **Full-Stack Developer** passionate about leveraging AI, software engineering, and research to solve real-world problems.
+Welcome to my GitHub! I’m a **Machine Learning Engineer**, **Exploitation Analyst**, and **Full-Stack Developer** passionate about leveraging AI, software engineering, and research to solve real-world problems.
 
 🎓 **Currently:**  
 MSc Computer Science grad @ *Anglia Ruskin University, UK*  

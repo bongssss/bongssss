@@ -72,8 +72,8 @@ Feel free to explore my repos, open issues, or reach out:
 📧 ubonge07@gmail.com  
 🌐 [ubongabasi.netlify.app](https://ubongabasi.netlify.app/)  
 🔗 [LinkedIn](https://linkedin.com/in/ubongetim)  
-📁 [My CV](./Ubong_Etim__CV.pdf)
+📄 [My CV (PDF)](https://simplify.jobs/resume/297d3620-8b89-4e76-9430-b8c5e4139921/share)  
 
 ---
 
-🛠️ _“Build. Learn. Repeat.”_
+

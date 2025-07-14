@@ -17,7 +17,7 @@ MSc Computer Science @ *Anglia Ruskin University, UK*
 🔹 Outside of work, I love contributing to open-source, writing technical breakdowns, and automating anything that saves time.
 
 🔗 [My Portfolio Website](https://ubongabasi.netlify.app/)  
-📄 [My CV (PDF)](./Ubong_Etim__CV.pdf)  
+📄 [My CV (PDF)](https://simplify.jobs/resume/297d3620-8b89-4e76-9430-b8c5e4139921/share)  
 🔗 [LinkedIn](https://linkedin.com/in/ubongetim)
 
 ---

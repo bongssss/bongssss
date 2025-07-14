@@ -5,7 +5,7 @@
 Welcome to my GitHub! I’m a **Machine Learning Engineer**, **Technical Writer**, and **Full-Stack Developer** passionate about leveraging AI, software engineering, and research to solve real-world problems.
 
 🎓 **Currently:**  
-MSc Computer Science @ *Anglia Ruskin University, UK*  
+MSc Computer Science grad @ *Anglia Ruskin University, UK*  
 🔬 Researcher | 🚀 Builder | 💻 Hacker
 
 ---
@@ -54,10 +54,10 @@ Applied **parallel ensemble architectures** to predict intraday AAPL stock price
 ## 👩🏽‍💻 Experience Highlights
 
 - 🛡️ **Cybersecurity Intern** @ Hacktales  
-  Focused on exploitation analysis, OSINT, and vulnerability assessment using tools like **Nmap, OpenVAS**, and **Python scripting**.
+  Focused on exploitation analysis, OSINT, and vulnerability assessment using tools like **Nmap, OpenVAS**, **Kali Linux**, and **scripting**.
 
 - 💳 **Strategy Intern** @ Interswitch Group  
-  Developed a **Data & AI strategic roadmap** for a fintech company. Gained deep insights into **payment ecosystems**, innovation, and card scheme management.
+  Developed a **Data & AI strategic roadmap** for a fintech company. Gained deep insights into **payment ecosystems**, Financial services-related innovation, Value streams, Payment  facilitation lifecycle,  and card scheme management.
 
 - 🤝 **Volunteer Data Analyst** @ Rainham Food Bank  
   Used data to improve food distribution efficiency, built dashboards, and performed impact analysis using real data pipelines.

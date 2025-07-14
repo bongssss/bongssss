@@ -42,7 +42,7 @@ Using deep learning and computer vision to power **low-cost diagnostic tools** f
 > **Role:** React Frontend Developer  
 Built a modern single-page app using **React + Vite** with TMDB API integration, persistent favorites, and Context API. Designed to be clean, responsive, and fast.
 
-### 📈 [Neural Networks for Stock Movement Forecasting](https://www.scitepress.org/Papers/2025/131836/131836.pdf)
+### 📈 [Neural Networks for Asset price Movement Forecasting](https://www.scitepress.org/Papers/2025/131836/131836.pdf)
 > **Postgrad Research Project**  
 Applied **parallel ensemble architectures** to predict intraday AAPL stock price movements using neural networks and the triple-screen trading system.
 

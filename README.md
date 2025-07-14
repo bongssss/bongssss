@@ -59,7 +59,7 @@ Applied **parallel ensemble architectures** to predict intraday AAPL stock price
 - 💳 **Strategy Intern** @ [Interswitch Group](https://interswitchgroup.com/home/)  
   Developed a **Data & AI strategic roadmap** for a fintech company. Gained deep insights into **payment ecosystems**, Financial services-related innovation, Value streams, Payment  facilitation lifecycle,  and card scheme management.
 
-- 🤝 **Volunteer Data Analyst** @ Rainham Food Bank  
+- 🤝 **Volunteer Data Analyst** @ [Rainham Food Bank](https://rainham.foodbank.org.uk/)  
   Used data to improve food distribution efficiency, built dashboards, and performed impact analysis using real data pipelines.
 
 ---

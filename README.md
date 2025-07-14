@@ -22,7 +22,7 @@ MSc Computer Science @ *Anglia Ruskin University, UK*
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Skills, Abilities & Technology Interests
 
 - **Languages:** Python, JavaScript (ES6+), Bash, SQL, C++
 - **Frameworks & Tools:** React.js, FastAPI, Django, Flask, Tailwind CSS, Vite

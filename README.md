@@ -12,9 +12,9 @@ MSc Computer Science grad @ *Anglia Ruskin University, UK*
 
 ## 🚀 About Me
 
-🔹 I specialize in building intelligent systems that blend **Machine Learning**, **Web Technologies**, and **Data Engineering** to create impactful solutions.  
-🔹 I’m also exploring **AI in healthcare**, **finance**, and **ethical hacking** — with hands-on research and professional internships in both industries.  
-🔹 Outside of work, I love contributing to open-source, writing technical breakdowns, and automating anything that saves time.
+🔹 I like to build systems that blend **Machine Learning**, **Web Technologies**, and **Data** to create solutions to real problems.  
+🔹 I’m currently exploring **AI in healthcare**, **finance**, and **ethical hacking** — with hands-on research and professional internships in both industries.  
+
 
 🔗 [My Portfolio Website](https://ubongabasi.netlify.app/)  
 📄 [My CV (PDF)](https://simplify.jobs/resume/297d3620-8b89-4e76-9430-b8c5e4139921/share)  

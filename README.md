@@ -46,7 +46,7 @@ Built a modern single-page app using **React + Vite** with TMDB API integration,
 > **Postgrad Research Project**  
 Applied **parallel ensemble architectures** to predict intraday AAPL stock price movements using neural networks and the triple-screen trading system.
 
-### 💓 [Arrhythmia Detection with ML](https://github.com/bongssss/ML-/tree/main)
+### 🫀 [Arrhythmia Detection with ML](https://github.com/bongssss/ML-/tree/main)
 > Applied supervised learning models (MLP, SVM, RF) on ECG data from MIT-BIH to classify heartbeat signals. Achieved **98%+ accuracy** using ensemble learning and advanced performance metrics.
 
 ---

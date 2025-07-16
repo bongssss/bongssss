@@ -1,6 +1,6 @@
 # Introduction
 
-# 👋 I'm Ubong Etim
+# I'm Ubong Etim
 
 Welcome to my GitHub! I’m a **Machine Learning Engineer**, **Exploitation Analyst**, and **Full-Stack Developer** passionate about leveraging AI, software engineering, and research to solve real-world problems.
 
